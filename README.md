@@ -1,3 +1,21 @@
+# Animal Crossing Islanders Tracking App
+This will be an app for keeping track of which villagers reside on your island. The app will also include a dreamies wish list to add your favourite islanders you wish to have on your island.
+
+## MVP
+- View all available islanders and be able to filter them by personality, species and gender
+- Keep track of your islanders by adding them to your Reside list
+- Add your dreamies to a wishlist
+- Delete islanders that no longer live on your island
+- Of course only have up to 9 islanders on your island but your dreamies wish list can be never ending!
+
+## Additional future features
+- User Logins
+
+## Technology
+- Front-End will be powered by React using Redux for state mangement
+- There will be a database of all the villagers and their information powered by an API created in Laravel
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
